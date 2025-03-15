@@ -24,3 +24,10 @@ int main{
 ```
 
 v3. Communicating via Markdown, specifically, showing the code excerpts by ``` before inserting the code inside like a bracket. Both up and down the code snippet. 15.3.25
+---
+- [x] Obtain an internship
+- [x] Publish my Portfolio
+- [ ] Finish CS50x, relevant certs, projects and problem based work.
+- [x] Changing myself for the better.
+
+v4. Task List via Markdown, the layout to make it. 15.3.24 -> Can be used for collaborative effort, and for projects.
