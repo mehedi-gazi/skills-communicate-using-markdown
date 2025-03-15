@@ -13,3 +13,14 @@ v1. Testing headers via markdown, 15.3.25
 ![My other gremlin tank, the DF105](https://old-wiki.warthunder.com/images/thumb/c/c3/ArtImage_DF105.png/800px-ArtImage_DF105.png)
 
 v2. Attaching Images via Link, in Markdown 15.3.25
+
+---
+``` C
+#include <stdio.h>
+
+int main{
+  printf("Testing Hello World via Markdown");
+}
+```
+
+v3. Communicating via Markdown, specifically, showing the code excerpts by ``` before inserting the code inside like a bracket. Both up and down the code snippet. 15.3.25
