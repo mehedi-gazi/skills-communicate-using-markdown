@@ -6,3 +6,10 @@
 
 
 v1. Testing headers via markdown, 15.3.25
+
+---
+![Image of one of my favourite tanks, the Begleitpanzer 57](https://old-wiki.warthunder.com/images/thumb/e/e1/ArtImage_Begleitpanzer_57.png/800px-ArtImage_Begleitpanzer_57.png)
+
+![My other gremlin tank, the DF105](https://old-wiki.warthunder.com/images/thumb/c/c3/ArtImage_DF105.png/800px-ArtImage_DF105.png)
+
+v2. Attaching Images via Link, in Markdown 15.3.25
